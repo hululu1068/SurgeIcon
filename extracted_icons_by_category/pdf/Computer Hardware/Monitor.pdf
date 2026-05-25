@@ -1,0 +1,198 @@
+%PDF-1.5
+%µí®û
+3 0 obj
+<< /Length 4 0 R
+   /Filter /FlateDecode
+>>
+stream
+xœ…PËnÃ0»û+øuíX~ä3zê¹0†åàèòÿÀ(9Ù€^–¢b‘”ä—{9‰ˆ	OT…ìÛš5Õ`9“ŒNH«Ö!ÁÇ"ÕUCwùÈbuıM'™Õ]‘fÃpºl6œƒĞhûé/ø^¤¡?İõğ¹ãºoûænÜ¡ª{\Á÷‡É‚oö¦¾ÆÖ}âÉ^J{³*§	1°õÒ‡¡ŞËşPÏ¹ÆDñ"«æQ°úœ£%Ë«1P&gR‹jëlUXOÉTE˜Ä¤Â®°ÂC£LöšSv^Õ9ï?WUç~7÷˜}c¦
+endstream
+endobj
+4 0 obj
+   239
+endobj
+2 0 obj
+<<
+   /ExtGState <<
+      /a0 << /CA 1 /ca 1 >>
+   >>
+   /Shading << /sh5 5 0 R /sh6 6 0 R /sh7 7 0 R >>
+>>
+endobj
+8 0 obj
+<< /Type /Page
+   /Parent 1 0 R
+   /MediaBox [ 0 0 48 48 ]
+   /Contents 3 0 R
+   /Group <<
+      /Type /Group
+      /S /Transparency
+      /I true
+      /CS /DeviceRGB
+   >>
+   /Resources 2 0 R
+>>
+endobj
+9 0 obj
+<< /FunctionType 2
+   /Domain [ 0 1 ]
+   /C0 [ 0.631373 0.666667 0.701961 ]
+   /C1 [ 0.560784 0.592157 0.619608 ]
+   /N 1
+>>
+endobj
+5 0 obj
+      << /ShadingType 2
+         /ColorSpace /DeviceRGB
+         /Coords [ 8.6626 8.059 38.1217 32.9152 ]
+         /Domain [ 0 1 ]
+         /Extend [ true true ]
+         /Function 9 0 R
+      >>
+endobj
+10 0 obj
+<< /FunctionType 2
+   /Domain [ 0 1 ]
+   /C0 [ 0.137255 0.85098 0.839216 ]
+   /C1 [ 0.137255 0.831373 0.843137 ]
+   /N 1
+>>
+endobj
+11 0 obj
+<< /FunctionType 2
+   /Domain [ 0 1 ]
+   /C0 [ 0.137255 0.831373 0.843137 ]
+   /C1 [ 0.129412 0.780392 0.862745 ]
+   /N 1
+>>
+endobj
+12 0 obj
+<< /FunctionType 2
+   /Domain [ 0 1 ]
+   /C0 [ 0.129412 0.780392 0.862745 ]
+   /C1 [ 0.121569 0.690196 0.886275 ]
+   /N 1
+>>
+endobj
+13 0 obj
+<< /FunctionType 2
+   /Domain [ 0 1 ]
+   /C0 [ 0.121569 0.690196 0.886275 ]
+   /C1 [ 0.109804 0.568627 0.92549 ]
+   /N 1
+>>
+endobj
+14 0 obj
+<< /FunctionType 2
+   /Domain [ 0 1 ]
+   /C0 [ 0.109804 0.568627 0.92549 ]
+   /C1 [ 0.0980392 0.411765 0.972549 ]
+   /N 1
+>>
+endobj
+15 0 obj
+<< /FunctionType 2
+   /Domain [ 0 1 ]
+   /C0 [ 0.0980392 0.411765 0.972549 ]
+   /C1 [ 0.0941176 0.376471 0.984314 ]
+   /N 1
+>>
+endobj
+16 0 obj
+<< /FunctionType 3
+   /Domain [ 0.3234 0.9436 ]
+   /Functions [ 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R ]
+   /Bounds [ 0.4266 0.5421 0.6637 0.7894 0.9172 ]
+   /Encode [ 0 1 0 1 0 1 0 1 0 1 0 1 ]
+>>
+endobj
+6 0 obj
+      << /ShadingType 3
+         /ColorSpace /DeviceRGB
+         /Coords [ 56.5163 78.4678 27.891698 56.5163 78.4678 81.380971 ]
+         /Domain [ 0.3234 0.9436 ]
+         /Extend [ true true ]
+         /Function 16 0 R
+      >>
+endobj
+17 0 obj
+<< /FunctionType 2
+   /Domain [ 0 1 ]
+   /C0 [ 0.282353 0.294118 0.309804 ]
+   /C1 [ 0.396078 0.427451 0.458824 ]
+   /N 1
+>>
+endobj
+18 0 obj
+<< /FunctionType 2
+   /Domain [ 0 1 ]
+   /C0 [ 0.396078 0.427451 0.458824 ]
+   /C1 [ 0.447059 0.490196 0.52549 ]
+   /N 1
+>>
+endobj
+19 0 obj
+<< /FunctionType 3
+   /Domain [ 0 0.3672 ]
+   /Functions [ 17 0 R 18 0 R ]
+   /Bounds [ 0.2296 ]
+   /Encode [ 0 1 0 1 ]
+>>
+endobj
+7 0 obj
+      << /ShadingType 2
+         /ColorSpace /DeviceRGB
+         /Coords [ 24 34.9852 24 37.566175 ]
+         /Domain [ 0 0.3672 ]
+         /Extend [ true true ]
+         /Function 19 0 R
+      >>
+endobj
+1 0 obj
+<< /Type /Pages
+   /Kids [ 8 0 R ]
+   /Count 1
+>>
+endobj
+20 0 obj
+<< /Creator (cairo 1.14.12 (http://cairographics.org))
+   /Producer (cairo 1.14.12 (http://cairographics.org))
+>>
+endobj
+21 0 obj
+<< /Type /Catalog
+   /Pages 1 0 R
+>>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000002978 00000 n 
+0000000353 00000 n 
+0000000015 00000 n 
+0000000331 00000 n 
+0000000828 00000 n 
+0000002101 00000 n 
+0000002766 00000 n 
+0000000476 00000 n 
+0000000688 00000 n 
+0000001039 00000 n 
+0000001179 00000 n 
+0000001320 00000 n 
+0000001461 00000 n 
+0000001601 00000 n 
+0000001742 00000 n 
+0000001885 00000 n 
+0000002346 00000 n 
+0000002487 00000 n 
+0000002627 00000 n 
+0000003043 00000 n 
+0000003173 00000 n 
+trailer
+<< /Size 22
+   /Root 21 0 R
+   /Info 20 0 R
+>>
+startxref
+3226
+%%EOF
