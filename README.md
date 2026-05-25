@@ -1,67 +1,67 @@
-# About
+# Surge Icons Preview (PNG 1024)
 
-- Exported for personal use because I really like the icons in `Surge`. Will be removed immediately upon any infringement notice.
-- `pdf/` contains the original vector files.
-- `png_1024/` contains high-resolution `1024×1024` PNG images.
+- Source directory: `png_1024/`
+- Layout: 8 icons per row (fixed width in VS Code/GitHub)
 
 ## Categories
-- [Alphabet](#alphabet)
-- [Animals](#animals)
-- [Arrows](#arrows)
-- [Astrology](#astrology)
-- [Baby](#baby)
-- [Beauty](#beauty)
-- [Business](#business)
-- [Characters](#characters)
-- [Cinema](#cinema)
-- [City](#city)
-- [Clothing](#clothing)
-- [Computer Hardware](#computer-hardware)
-- [Crime](#crime)
-- [Culture](#culture)
-- [Data](#data)
-- [DIY](#diy)
-- [Drinks](#drinks)
-- [Ecommerce](#ecommerce)
-- [Editing](#editing)
-- [Emoji](#emoji)
-- [Farming](#farming)
-- [Files](#files)
-- [Finance](#finance)
-- [Folders](#folders)
-- [Food](#food)
-- [Gaming](#gaming)
-- [Hands](#hands)
-- [Healthcare](#healthcare)
-- [Holidays](#holidays)
-- [Household](#household)
-- [Industry](#industry)
-- [Logos](#logos)
-- [Maps](#maps)
-- [Media Controls](#media-controls)
-- [Messaging](#messaging)
-- [Military](#military)
-- [Mobile](#mobile)
-- [Music](#music)
-- [Nature](#nature)
-- [Network](#network)
-- [People](#people)
-- [Photo and Video](#photo-and-video)
-- [Plants](#plants)
-- [Printing](#printing)
-- [Profile](#profile)
-- [Programming](#programming)
-- [Science](#science)
-- [Security](#security)
-- [Shopping](#shopping)
-- [Social Media](#social-media)
-- [Sports](#sports)
-- [Time and Date](#time-and-date)
-- [Transport](#transport)
-- [Travel](#travel)
-- [User Interface](#user-interface)
-- [Weather](#weather)
+- [Alphabet](#category-alphabet)
+- [Animals](#category-animals)
+- [Arrows](#category-arrows)
+- [Astrology](#category-astrology)
+- [Baby](#category-baby)
+- [Beauty](#category-beauty)
+- [Business](#category-business)
+- [Characters](#category-characters)
+- [Cinema](#category-cinema)
+- [City](#category-city)
+- [Clothing](#category-clothing)
+- [Computer Hardware](#category-computer-hardware)
+- [Crime](#category-crime)
+- [Culture](#category-culture)
+- [Data](#category-data)
+- [DIY](#category-diy)
+- [Drinks](#category-drinks)
+- [Ecommerce](#category-ecommerce)
+- [Editing](#category-editing)
+- [Emoji](#category-emoji)
+- [Farming](#category-farming)
+- [Files](#category-files)
+- [Finance](#category-finance)
+- [Folders](#category-folders)
+- [Food](#category-food)
+- [Gaming](#category-gaming)
+- [Hands](#category-hands)
+- [Healthcare](#category-healthcare)
+- [Holidays](#category-holidays)
+- [Household](#category-household)
+- [Industry](#category-industry)
+- [Logos](#category-logos)
+- [Maps](#category-maps)
+- [Media Controls](#category-media-controls)
+- [Messaging](#category-messaging)
+- [Military](#category-military)
+- [Mobile](#category-mobile)
+- [Music](#category-music)
+- [Nature](#category-nature)
+- [Network](#category-network)
+- [People](#category-people)
+- [Photo and Video](#category-photo-and-video)
+- [Plants](#category-plants)
+- [Printing](#category-printing)
+- [Profile](#category-profile)
+- [Programming](#category-programming)
+- [Science](#category-science)
+- [Security](#category-security)
+- [Shopping](#category-shopping)
+- [Social Media](#category-social-media)
+- [Sports](#category-sports)
+- [Time and Date](#category-time-and-date)
+- [Transport](#category-transport)
+- [Travel](#category-travel)
+- [User Interface](#category-user-interface)
+- [Weather](#category-weather)
 
+<a id="category-alphabet"></a>
 ## Alphabet
 
 <table align="center">
@@ -147,6 +147,7 @@
   </tr>
 </table>
 
+<a id="category-animals"></a>
 ## Animals
 
 <table align="center">
@@ -402,6 +403,7 @@
   </tr>
 </table>
 
+<a id="category-arrows"></a>
 ## Arrows
 
 <table align="center">
@@ -527,6 +529,7 @@
   </tr>
 </table>
 
+<a id="category-astrology"></a>
 ## Astrology
 
 <table align="center">
@@ -612,6 +615,7 @@
   </tr>
 </table>
 
+<a id="category-baby"></a>
 ## Baby
 
 <table align="center">
@@ -737,6 +741,7 @@
   </tr>
 </table>
 
+<a id="category-beauty"></a>
 ## Beauty
 
 <table align="center">
@@ -882,6 +887,7 @@
   </tr>
 </table>
 
+<a id="category-business"></a>
 ## Business
 
 <table align="center">
@@ -1487,6 +1493,7 @@
   </tr>
 </table>
 
+<a id="category-characters"></a>
 ## Characters
 
 <table align="center">
@@ -1552,6 +1559,7 @@
   </tr>
 </table>
 
+<a id="category-cinema"></a>
 ## Cinema
 
 <table align="center">
@@ -1627,6 +1635,7 @@
   </tr>
 </table>
 
+<a id="category-city"></a>
 ## City
 
 <table align="center">
@@ -2002,6 +2011,7 @@
   </tr>
 </table>
 
+<a id="category-clothing"></a>
 ## Clothing
 
 <table align="center">
@@ -2097,6 +2107,7 @@
   </tr>
 </table>
 
+<a id="category-computer-hardware"></a>
 ## Computer Hardware
 
 <table align="center">
@@ -2242,6 +2253,7 @@
   </tr>
 </table>
 
+<a id="category-crime"></a>
 ## Crime
 
 <table align="center">
@@ -2317,6 +2329,7 @@
   </tr>
 </table>
 
+<a id="category-culture"></a>
 ## Culture
 
 <table align="center">
@@ -2522,6 +2535,7 @@
   </tr>
 </table>
 
+<a id="category-data"></a>
 ## Data
 
 <table align="center">
@@ -2637,6 +2651,7 @@
   </tr>
 </table>
 
+<a id="category-diy"></a>
 ## DIY
 
 <table align="center">
@@ -2772,6 +2787,7 @@
   </tr>
 </table>
 
+<a id="category-drinks"></a>
 ## Drinks
 
 <table align="center">
@@ -2857,6 +2873,7 @@
   </tr>
 </table>
 
+<a id="category-ecommerce"></a>
 ## Ecommerce
 
 <table align="center">
@@ -3192,6 +3209,7 @@
   </tr>
 </table>
 
+<a id="category-editing"></a>
 ## Editing
 
 <table align="center">
@@ -3527,6 +3545,7 @@
   </tr>
 </table>
 
+<a id="category-emoji"></a>
 ## Emoji
 
 <table align="center">
@@ -3552,6 +3571,7 @@
   </tr>
 </table>
 
+<a id="category-farming"></a>
 ## Farming
 
 <table align="center">
@@ -3687,6 +3707,7 @@
   </tr>
 </table>
 
+<a id="category-files"></a>
 ## Files
 
 <table align="center">
@@ -3742,6 +3763,7 @@
   </tr>
 </table>
 
+<a id="category-finance"></a>
 ## Finance
 
 <table align="center">
@@ -3887,6 +3909,7 @@
   </tr>
 </table>
 
+<a id="category-folders"></a>
 ## Folders
 
 <table align="center">
@@ -3972,6 +3995,7 @@
   </tr>
 </table>
 
+<a id="category-food"></a>
 ## Food
 
 <table align="center">
@@ -4457,6 +4481,7 @@
   </tr>
 </table>
 
+<a id="category-gaming"></a>
 ## Gaming
 
 <table align="center">
@@ -4632,6 +4657,7 @@
   </tr>
 </table>
 
+<a id="category-hands"></a>
 ## Hands
 
 <table align="center">
@@ -4667,6 +4693,7 @@
   </tr>
 </table>
 
+<a id="category-healthcare"></a>
 ## Healthcare
 
 <table align="center">
@@ -4752,6 +4779,7 @@
   </tr>
 </table>
 
+<a id="category-holidays"></a>
 ## Holidays
 
 <table align="center">
@@ -4867,6 +4895,7 @@
   </tr>
 </table>
 
+<a id="category-household"></a>
 ## Household
 
 <table align="center">
@@ -5192,6 +5221,7 @@
   </tr>
 </table>
 
+<a id="category-industry"></a>
 ## Industry
 
 <table align="center">
@@ -5637,6 +5667,7 @@
   </tr>
 </table>
 
+<a id="category-logos"></a>
 ## Logos
 
 <table align="center">
@@ -6442,6 +6473,7 @@
   </tr>
 </table>
 
+<a id="category-maps"></a>
 ## Maps
 
 <table align="center">
@@ -6647,6 +6679,7 @@
   </tr>
 </table>
 
+<a id="category-media-controls"></a>
 ## Media Controls
 
 <table align="center">
@@ -6712,6 +6745,7 @@
   </tr>
 </table>
 
+<a id="category-messaging"></a>
 ## Messaging
 
 <table align="center">
@@ -7087,6 +7121,7 @@
   </tr>
 </table>
 
+<a id="category-military"></a>
 ## Military
 
 <table align="center">
@@ -7262,6 +7297,7 @@
   </tr>
 </table>
 
+<a id="category-mobile"></a>
 ## Mobile
 
 <table align="center">
@@ -7457,6 +7493,7 @@
   </tr>
 </table>
 
+<a id="category-music"></a>
 ## Music
 
 <table align="center">
@@ -7702,6 +7739,7 @@
   </tr>
 </table>
 
+<a id="category-nature"></a>
 ## Nature
 
 <table align="center">
@@ -7767,6 +7805,7 @@
   </tr>
 </table>
 
+<a id="category-network"></a>
 ## Network
 
 <table align="center">
@@ -7912,6 +7951,7 @@
   </tr>
 </table>
 
+<a id="category-people"></a>
 ## People
 
 <table align="center">
@@ -8087,6 +8127,7 @@
   </tr>
 </table>
 
+<a id="category-photo-and-video"></a>
 ## Photo and Video
 
 <table align="center">
@@ -8242,6 +8283,7 @@
   </tr>
 </table>
 
+<a id="category-plants"></a>
 ## Plants
 
 <table align="center">
@@ -8457,6 +8499,7 @@
   </tr>
 </table>
 
+<a id="category-printing"></a>
 ## Printing
 
 <table align="center">
@@ -8602,6 +8645,7 @@
   </tr>
 </table>
 
+<a id="category-profile"></a>
 ## Profile
 
 <table align="center">
@@ -8687,6 +8731,7 @@
   </tr>
 </table>
 
+<a id="category-programming"></a>
 ## Programming
 
 <table align="center">
@@ -8872,6 +8917,7 @@
   </tr>
 </table>
 
+<a id="category-science"></a>
 ## Science
 
 <table align="center">
@@ -9057,6 +9103,7 @@
   </tr>
 </table>
 
+<a id="category-security"></a>
 ## Security
 
 <table align="center">
@@ -9222,6 +9269,7 @@
   </tr>
 </table>
 
+<a id="category-shopping"></a>
 ## Shopping
 
 <table align="center">
@@ -9377,6 +9425,7 @@
   </tr>
 </table>
 
+<a id="category-social-media"></a>
 ## Social Media
 
 <table align="center">
@@ -9492,6 +9541,7 @@
   </tr>
 </table>
 
+<a id="category-sports"></a>
 ## Sports
 
 <table align="center">
@@ -9557,6 +9607,7 @@
   </tr>
 </table>
 
+<a id="category-time-and-date"></a>
 ## Time and Date
 
 <table align="center">
@@ -9762,6 +9813,7 @@
   </tr>
 </table>
 
+<a id="category-transport"></a>
 ## Transport
 
 <table align="center">
@@ -10047,6 +10099,7 @@
   </tr>
 </table>
 
+<a id="category-travel"></a>
 ## Travel
 
 <table align="center">
@@ -10432,6 +10485,7 @@
   </tr>
 </table>
 
+<a id="category-user-interface"></a>
 ## User Interface
 
 <table align="center">
@@ -10937,6 +10991,7 @@
   </tr>
 </table>
 
+<a id="category-weather"></a>
 ## Weather
 
 <table align="center">
