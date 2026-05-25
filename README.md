@@ -1,7 +1,8 @@
-# Surge Icons Preview (PNG 1024)
+# About
 
-- Source directory: `png_1024/`
-- Layout: 8 icons per row (fixed width in VS Code/GitHub)
+- Exported for personal use because I really like the icons in `Surge`. Will be removed immediately upon any infringement notice.
+- `pdf/` contains the original vector files.
+- `png_1024/` contains high-resolution `1024×1024` PNG images.
 
 ## Categories
 - [Alphabet](#category-alphabet)
